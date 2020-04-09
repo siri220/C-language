@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	cout<<" enter two number ";
+	cout<<endl;
+	int a,b;
+	cin>>a>>b;
+	int q=a+b;
+	cout<<" =";
+	cout<<q;
+	
+	return 0;
+}
